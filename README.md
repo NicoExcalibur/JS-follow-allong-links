@@ -1,0 +1,1 @@
+# JS-follow-allong-links
